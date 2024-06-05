@@ -1,6 +1,6 @@
 #!ipxe
 
-set base-url /assets/HBCD_PE_x64
+set base-url http://192.168.1.40:3080/HBCD_PE_x64
 
 :start
 menu Please choose an option:
